@@ -21,6 +21,9 @@
 /bin
 /bin.*
 /pom.xml
+WebContent/
+eclipse-build/
+solr/example/solr/collection1/data/
 
 
 # ./lucene

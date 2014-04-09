@@ -15,3 +15,5 @@
 
 org.apache.lucene.codecs.diskdv.DiskDocValuesFormat
 org.apache.lucene.codecs.simpletext.SimpleTextDocValuesFormat
+
+org.apache.lucene.codecs.lucene42.Lucene42DocValuesFormat

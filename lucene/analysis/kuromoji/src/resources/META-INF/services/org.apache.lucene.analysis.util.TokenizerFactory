@@ -14,3 +14,20 @@
 #  limitations under the License.
 
 org.apache.lucene.analysis.ja.JapaneseTokenizerFactory
+
+org.apache.lucene.analysis.ar.ArabicLetterTokenizerFactory
+org.apache.lucene.analysis.cjk.CJKTokenizerFactory
+org.apache.lucene.analysis.cn.ChineseTokenizerFactory
+org.apache.lucene.analysis.core.KeywordTokenizerFactory
+org.apache.lucene.analysis.core.LetterTokenizerFactory
+org.apache.lucene.analysis.core.LowerCaseTokenizerFactory
+org.apache.lucene.analysis.core.WhitespaceTokenizerFactory
+org.apache.lucene.analysis.ngram.EdgeNGramTokenizerFactory
+org.apache.lucene.analysis.ngram.NGramTokenizerFactory
+org.apache.lucene.analysis.path.PathHierarchyTokenizerFactory
+org.apache.lucene.analysis.pattern.PatternTokenizerFactory
+org.apache.lucene.analysis.ru.RussianLetterTokenizerFactory
+org.apache.lucene.analysis.standard.ClassicTokenizerFactory
+org.apache.lucene.analysis.standard.StandardTokenizerFactory
+org.apache.lucene.analysis.standard.UAX29URLEmailTokenizerFactory
+org.apache.lucene.analysis.wikipedia.WikipediaTokenizerFactory
